@@ -1,1 +1,1 @@
-This is a [Habit Streak](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Habit Streak](https://habit-streak-neon.vercel.app/), try it out!
