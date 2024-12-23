@@ -3,7 +3,7 @@ export interface User {
   name: string;
   email: string;
   avatar?: string;
-  friends: User[];
+  friends: string[];
   pendingRequests: string[];
   streakScore: number;
 } 
